@@ -1,4 +1,4 @@
-# Hello Intro
+# Hello World
 I am...
 
 - Gamer turned Programmer @RaizenStyx ~ 
