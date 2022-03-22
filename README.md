@@ -10,4 +10,4 @@ I am...
 - You can reach me at contact@calexreed.me
 ___
 
-### To learn more about me and to see some of my Java code in action, please vist [My Portfolio](https://calexreed.me/ "Connor Reeds Portfolio")
+### To learn more about me and to see my Next.Js portfolio, please vist [My Portfolio](https://calexreed.me/ "Connor Reeds Portfolio")
