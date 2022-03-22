@@ -8,9 +8,6 @@ I am...
 - Interested in opportunities that will get my foot in the door.
 - Currently learning app development with C# and python prototype software for a client.
 - You can reach me at contact@calexreed.me
+___
 
-
-<!---
-TODO - Make this look more appealing
-You can click the Preview link to take a look at your changes.
---->
+### To learn more about me and to see some of my Java code in action, please vist [My Portfolio](https://calexreed.me/ "Connor Reeds Portfolio")
